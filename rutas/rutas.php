@@ -23,4 +23,5 @@ if(count(array_filter($array))===1){
         }
        }
     }
+
 }
